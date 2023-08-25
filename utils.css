@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+};
+
+#textCenter{
+    text-align: center;
+    color: wheat;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.cursor-point{
+    cursor: pointer;
+}
+
+.my-20{
+    margin: 20px 0px;
+}
+
