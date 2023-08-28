@@ -1,6 +1,15 @@
+
+body{
+    background: url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .container{
     width: max-content;
     margin: auto;
+    background: #66fffc;
+    border-radius: 15px;
 }
 
 .button{
@@ -28,4 +37,12 @@
 .heading{
     text-align: center;
     margin-bottom: 40px;
+    margin-top: 100px;
+    color: white;
+    background: #0000005c;
+}
+
+.brand{
+    padding: 10px 20px;
+    font-weight: bold;
 }
